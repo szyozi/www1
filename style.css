@@ -1,3 +1,9 @@
 body{
     background-color: cornflowerblue;
 }
+p{
+    border: solid black 3px;
+    width: 200px;
+    height: 200px;
+    background-color: darkgray;
+}
